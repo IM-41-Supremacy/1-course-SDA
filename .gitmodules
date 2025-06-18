@@ -16,3 +16,9 @@
 [submodule "2 semester/28"]
 	path = 2 semester/28
 	url = https://github.com/theammir/asd-labs
+[submodule "2 semester/30"]
+	path = 2 semester/30
+	url = https://github.com/Impe11e/ASD_labs
+[submodule "1 semester/31"]
+	path = 1 semester/31
+	url = https://github.com/Impe11e/ASD_labs
